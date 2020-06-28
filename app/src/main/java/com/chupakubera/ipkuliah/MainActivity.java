@@ -1,14 +1,11 @@
 package com.chupakubera.ipkuliah;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Handler;
 import android.os.Bundle;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
     private int loading_time = 4000;    // 4 detik waktu loading screen
 
     @Override
