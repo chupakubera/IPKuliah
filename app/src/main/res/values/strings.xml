@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Ip|Kuliah</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IP Kuliah</string>
+    <string name="nav_header_subtitle">manage perkuliahanmu</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="pengaturan">Pengaturan</string>
+    <string name="home">Home</string>
+    <string name="jadwal_kuliah">Jadwal Kuliah</string>
+    <string name="catatan">Catatan</string>
 </resources>
