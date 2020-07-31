@@ -28,7 +28,6 @@ public class JadwalActivity extends AppCompatActivity {
     private DBManager dbManager;
     private ListView listView;
     private SimpleCursorAdapter adapter;
-    private AdView mAdView;
 
     final String[] jadwal_from = new String[] { DatabaseHelper._ID, DatabaseHelper.MATKUL_JADWAL,
             DatabaseHelper.HARI, DatabaseHelper.WAKTU, DatabaseHelper.RUANGAN};

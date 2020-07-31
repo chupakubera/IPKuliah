@@ -54,9 +54,6 @@
         <activity android:theme="@android:style/Theme.DeviceDefault.Light.Dialog"
             android:name="com.chupakubera.ipkuliah.activity.catatan.UpdateCatatanActivity"/>
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8008661425060167~1489378391"/>
 
     </application>
 

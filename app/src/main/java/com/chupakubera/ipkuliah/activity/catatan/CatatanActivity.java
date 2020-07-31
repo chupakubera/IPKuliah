@@ -28,7 +28,6 @@ public class CatatanActivity extends AppCompatActivity {
     private DBManager dbManager;
     private ListView listView;
     private SimpleCursorAdapter adapter;
-    private AdView mAdView;
 
     final String[] note_from = new String[] { DatabaseHelper._ID, DatabaseHelper.DATESTAMP,
             DatabaseHelper.KETERANGAN, DatabaseHelper.NOTE};

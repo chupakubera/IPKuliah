@@ -29,7 +29,6 @@ public class DaftarMatkulActivity extends AppCompatActivity {
     private DBManager dbManager;
     private ListView listView;
     private SimpleCursorAdapter adapter;
-    private AdView mAdView;
 
     final String[] from = new String[] { DatabaseHelper._ID, DatabaseHelper.MATKUL,
             DatabaseHelper.SKS, DatabaseHelper.INDEKS, DatabaseHelper.SEMESTER, DatabaseHelper.BOBOT };
